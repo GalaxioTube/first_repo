@@ -1,2 +1,1 @@
-//write your code here
-hello world
+print("hello world")
